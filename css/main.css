@@ -1,0 +1,43 @@
+body {
+    background-color: antiquewhite;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+
+.about-me {
+    text-align: center;
+    width: 600px;
+    margin: 0 auto;
+}
+
+.projects-container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.project {
+    background-color: rgb(204, 153, 255);
+    border-radius: 25px;
+    
+}
+
+/* Set default size for all project images */
+.project img {
+    width: 350px;
+    height: 300px;
+    border-radius: 25px;
+}
+
+/* align figure content (img and caption) vertically */
+.project figure {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.social-links {
+    text-align: center;
+}

@@ -1,9 +1,11 @@
 body {
-    
+    font-family: 'Roboto Mono', monospace;
+    background-color: hsla(246, 100%, 9%, 0.99);
 }
 
 h1, h2 {
     text-align: center;
+    color: whitesmoke;
 }
 
 
@@ -33,7 +35,7 @@ h1, h2 {
 /* Set default size for all project images */
 .project img {
     width: 310px;
-    max-height: 300px;
+    height: 277px;
     border-radius: 25px;
 }
 
@@ -46,6 +48,7 @@ h1, h2 {
 
 .social-links {
     text-align: center;
+    color: aliceblue;
 }
 
 @media screen and (max-width: 815px) {

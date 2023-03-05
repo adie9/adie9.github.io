@@ -8,6 +8,10 @@ h1, h2 {
     color: whitesmoke;
 }
 
+h2 {
+    margin-top: 60px;
+}
+
 
 .about-me {
     text-align: center;

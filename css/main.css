@@ -13,7 +13,7 @@ h2 {
 }
 
 
-.about-me {
+.txt-section {
     text-align: center;
     width: 95vw;
     margin: 0 auto;
@@ -33,7 +33,7 @@ h2 {
 .project {
     background-color: rgb(204, 153, 255);
     border-radius: 25px;
-    
+    transition: all .2s ease-in-out;
 }
 
 /* Set default size for all project images */
@@ -53,6 +53,11 @@ h2 {
 .social-links {
     text-align: center;
     color: aliceblue;
+}
+
+/* Animation */
+.project:hover {
+    transform: scale(1.1);
 }
 
 @media screen and (max-width: 815px) {

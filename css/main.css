@@ -34,6 +34,7 @@ h2 {
     background-color: rgb(204, 153, 255);
     border-radius: 25px;
     transition: all .2s ease-in-out;
+    max-width: 390px;
 }
 
 /* Set default size for all project images */

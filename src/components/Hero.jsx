@@ -7,7 +7,7 @@ const Hero = () => {
                 <h1 className='text-6xl text-center'>Hi, I'm Adrian Guerra</h1>
                 <p className='text-3xl text-center'>A passionate learner turning designs into responsive, accessible web interfaces.
                     I build with React, TailwindCSS, and a love for clean, user-friendly experiences.</p>
-                <a className='rounded px-3 py-3 bg-primary w-[100px] text-center cursor-pointer' href='#projects'>Projects</a>
+                <a className='rounded px-3 py-3 bg-primary w-[100px] text-center cursor-pointer hover:bg-secondary hover:text-dark' href='#projects'>Projects</a>
             </div>
             <div className='md:w-1/2'>
                 <img src='/images/responsive_design.svg' alt='monitor+phone'></img>

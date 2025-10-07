@@ -1,0 +1,8 @@
+[
+    {
+        "title": "Browser Extensions Manager UI",
+        "description": "A responsive interface for managing browser extensions, built with React and Sass.",
+        "image": "/images/browser_extensions_manager_ui_preview.jpg",
+        "demo": "https://browser-extensions-manager-ui-main-gules.vercel.app/"
+    }
+]

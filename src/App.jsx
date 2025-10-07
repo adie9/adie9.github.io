@@ -3,6 +3,7 @@ import './App.css'
 import Hero from './components/Hero'
 import AboutMe from './components/AboutMe.Jsx'
 import Contact from './components/Contact'
+import Footer from './components/Footer'
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
         <Hero />
         <AboutMe />
         <Contact />
+        <Footer />
       </div>
     </>
   )

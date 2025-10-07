@@ -5,7 +5,8 @@
 
 @theme {
     --color-primary: #8A0404;
-    --color-dark: #000000;
+    --color-secondary: #EAE0D5;
+    --color-dark: #02102B;
     --color-light: #ffffff;
 
     --font-main: "Noto sans", open-sans;

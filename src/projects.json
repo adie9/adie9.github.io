@@ -4,5 +4,13 @@
         "description": "A responsive interface for managing browser extensions, built with React and Sass.",
         "image": "/images/browser_extensions_manager_ui_preview.jpg",
         "demo": "https://browser-extensions-manager-ui-main-gules.vercel.app/"
+    },
+
+    {
+        "title": "Intro Section with Dropdown",
+        "description": "An introduction page with dropdown navigation items, built with HTML, CSS (SASS), and Vanilla JS",
+        "image": "/images/intro-dropdown-preview.jpg",
+        "demo": "https://intro-dropdown-orcin.vercel.app/"
     }
+
 ]

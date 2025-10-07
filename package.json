@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://adie9.github.io/adie9.github.io",
+  "homepage": "https://adie9.github.io/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

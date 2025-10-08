@@ -1,11 +1,16 @@
 [
     {
+        "title": "Agency Landing Page",
+        "description": "A responsive mock agency landing page, built with HTML, CSS (SASS), and Vanilla JS",
+        "image": "/images/agency-landing-page-preview.jpg",
+        "demo": "https://agency-landing-page-gamma-eight.vercel.app/"
+    },
+    {
         "title": "Browser Extensions Manager UI",
         "description": "A responsive interface for managing browser extensions, built with React and Sass.",
         "image": "/images/browser_extensions_manager_ui_preview.jpg",
         "demo": "https://browser-extensions-manager-ui-main-gules.vercel.app/"
     },
-
     {
         "title": "Intro Section with Dropdown",
         "description": "An introduction page with dropdown navigation items, built with HTML, CSS (SASS), and Vanilla JS",

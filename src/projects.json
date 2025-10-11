@@ -1,7 +1,13 @@
 [
     {
+        "title": "Time Tracking Dashboard",
+        "description": "A responsive time tracking dashboard, built with React and TailwindCSS.",
+        "image": "/images/time-tracking-dashboard-preview.jpg",
+        "demo": "https://time-tracking-dashboard-delta-inky.vercel.app/"
+    },
+    {
         "title": "Agency Landing Page",
-        "description": "A responsive mock agency landing page, built with HTML, CSS (SASS), and Vanilla JS",
+        "description": "A responsive mock agency landing page, built with HTML, CSS (SASS), and Vanilla JS.",
         "image": "/images/agency-landing-page-preview.jpg",
         "demo": "https://agency-landing-page-gamma-eight.vercel.app/"
     },
@@ -13,7 +19,7 @@
     },
     {
         "title": "Intro Section with Dropdown",
-        "description": "An introduction page with dropdown navigation items, built with HTML, CSS (SASS), and Vanilla JS",
+        "description": "An introduction page with dropdown navigation items, built with HTML, CSS (SASS), and Vanilla JS.",
         "image": "/images/intro-dropdown-preview.jpg",
         "demo": "https://intro-dropdown-orcin.vercel.app/"
     }

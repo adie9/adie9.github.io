@@ -1,11 +1,13 @@
-import React from 'react'
+import React from "react";
 
 const Footer = () => {
-    return (
-        <footer>
-            <p className='text-xs'>© 2025 Adrian Guerra. Built using React and TailwindCSS</p>
-        </footer>
-    )
-}
+  return (
+    <footer>
+      <p className="text-xs text-center">
+        © 2025 Adrian Guerra. Built using React and TailwindCSS
+      </p>
+    </footer>
+  );
+};
 
-export default Footer
+export default Footer;
